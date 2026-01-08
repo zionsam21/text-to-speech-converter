@@ -16,13 +16,7 @@ It converts written text into natural-sounding speech using the **Web Speech API
 
 ---
 
-## 🖼️ Preview
 
-![App Preview](./images/preview.png)
-
-> *(Optional: Add a screenshot and name it `preview.png` inside the images folder)*
-
----
 
 ## 🚀 Live Demo
 
