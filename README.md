@@ -18,7 +18,3 @@ It converts written text into natural-sounding speech using the **Web Speech API
 
 
 
-## 🚀 Live Demo
-
-👉 **Live Demo:** *(Add link after deployment)*  
-Example:
